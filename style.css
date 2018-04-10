@@ -1,0 +1,25 @@
+.jumbotron {
+	background: url(ccdopic.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron h1, .jumbotron p {
+	color: red;
+}
+
+@media screen and (min-width: 768px) {
+	.jumbotron { 
+		padding-top: 200px;
+		padding-bottom: 200px;
+	}	
+}
+	
+
+
+
+
+
+	}
